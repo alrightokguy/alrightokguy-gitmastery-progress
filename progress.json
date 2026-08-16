@@ -132,5 +132,14 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786895808.768209,
+    "completed_at": 1786895813.198068,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
   }
 ]
