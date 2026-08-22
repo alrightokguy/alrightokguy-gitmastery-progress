@@ -244,5 +244,14 @@
       "Answer for What's sum of values in north.csv on Jan 05th? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787408439.415632,
+    "completed_at": 1787408442.387908,
+    "comments": [
+      "Answer for What's sum of values in north.csv on Jan 05th? is not right."
+    ],
+    "status": "Incomplete"
   }
 ]
