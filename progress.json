@@ -197,5 +197,14 @@
       "Tag beta is still on the remote!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1787395904.099412,
+    "completed_at": 1787395907.948997,
+    "comments": [
+      "Tag beta is still on the remote!"
+    ],
+    "status": "Incomplete"
   }
 ]
