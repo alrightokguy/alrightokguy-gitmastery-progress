@@ -415,5 +415,14 @@
       "Cmd('git') failed due to: exit code(1)\n  cmdline: git checkout db41fbf707260499e5f94f2fb0c935a8c3409957\n  stderr: 'error: Your local changes to the following files would be overwritten by checkout:\n\tfeatures.md\nPlease commit your changes or stash them before you switch branches.\nAborting'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787416010.167457,
+    "completed_at": 1787416011.898822,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
   }
 ]
